@@ -5,8 +5,8 @@
  *
  */
 
-#ifndef _POSIX_SOURCE
-#define _POSIX_SOURCE
+#ifndef _BSD_SOURCE
+#define _BSD_SOURCE
 #endif
 #ifndef _DEFAULT_SOURCE
 #define _DEFAULT_SOURCE
